@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyongs
-- 👀 I’m interested in Backend, System management, etc. (Currently working as Fullstack Developer)
+- 👀 I’m interested in Backend, System management
 - 🌱 I’m currently learning Docker, AWS, Spring, GoLang, Vue
 - 💞️ I’m looking to collaborate on some awesome projects!!
 - 📫 How to reach me : kyongshikl@gmail.com
