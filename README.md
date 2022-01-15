@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyongs
 - 👀 I’m interested in Backend, System management
-- 🌱 I’m currently learning Docker, AWS, Spring, GoLang, Vue
+- 🌱 I’m currently learning Flash Memory, Docker, AWS
 - 💞️ I’m looking to collaborate on some awesome projects!!
 - 📫 How to reach me : kyongshikl@gmail.com
 - 🍭 Old github : https://github.com/kyongshik
