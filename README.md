@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyongs
-- 👀 I’m interested in Backend, System management
+- 👀 I’m interested in Database
 - 🌱 I’m currently learning Flash Memory, Docker, AWS
 - 💞️ I’m looking to collaborate on some awesome projects!!
 - 📫 How to reach me : kyongshikl@gmail.com
