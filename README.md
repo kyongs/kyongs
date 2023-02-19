@@ -28,7 +28,7 @@
 <h4 align="center"> Contact Me  </h4>
 <p align="center">
 <!--   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
-  <a href="[[https://www.instagram.com/dev.dobby/](https://www.linkedin.com/in/kyongshik-lee-1213881a5/)](https://www.linkedin.com/in/kyongshik-lee-1213881a5/)"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/kyongshik-lee-1213881a5/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="mailto:kyongshikl@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
