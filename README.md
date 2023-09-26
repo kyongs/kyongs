@@ -33,9 +33,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://kyongs.github.io/" target="_blank"><img src="https://img.shields.io/badge/-TechBlog-orange"/></a>
-</p>
 
 <!-- 
 👋 Hi, I’m @kyongs
